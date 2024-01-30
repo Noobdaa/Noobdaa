@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Noobdaa
-- 👀 I’m interested in Hacking...
-- 🌱 I’m currently learning termux
-- 💞️ I’m looking to collaborate on ntg...
-- 📫 How to reach me not required😂😅...
+- html && css (current)
+- want to (Java & Javascript)
+
 
 <!---
 Noobdaa/Noobdaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
